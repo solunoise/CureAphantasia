@@ -12,12 +12,12 @@
 
 • **Inner Monologue** - A form of thinking based on language. This can occur conciously or unconcsiously, and can occur in parallel ('_inner dialogue_', wherein multiple linguistic thoughts overlap). This is a form of Verbal Thinking and can also optionally work together with Sensory Thinking (specifically _Sound Sensory Thinking_) to create a literal audible voice or voices internally, or may be 'silent' with no sensory component.
 
-• **Minds Eye** - 
+• **Minds Eye** - _TBD_
 
 ----
 
 # Mental Processes
 
-• **Imposition** - (terminology may change ['warping' vs 'projecting' maybe?])
+• **Imposition** - _TBD (terminology may change ['warping' vs 'projecting' maybe?])_
 
-• **Projection** - (super-imposition)
+• **Projection** - _TBD (super-imposition)_
