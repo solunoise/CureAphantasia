@@ -1,10 +1,10 @@
 # Thinking Styles
 
-• **Verbal Thinking** - Silent thoughts which are structured like sentences.
+• **Verbal Thinking** - Thoughts which are structured based on language.
 
 • **Sensory Thinking** - Thoughts which are structured based on sensorial processes (ie Sight, Taste, Touch, Sound, Smell).
 
-• **Conceptual Thinking** - Thoughts which are structured based on latent platonic properties (eg Spatial, Orientation, Motion)
+• **Conceptual Thinking** - Thoughts which are structured based on latent platonic properties (eg Spatial, Orientation, Motion).
 
 ----
 
