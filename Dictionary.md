@@ -10,7 +10,7 @@
 
 # Mental Mechanisms
 
-• **Inner Monologue** - A form of thinking based on language. This can occur conciously or unconcsiously, and can occur in parallel ('_inner dialogue_', wherein multiple linguistic thoughts overlap). This is a form of Verbal Thinking and can also optionally work together with Sensory Thinking (specifically _Sound Sensory Thinking_) to create a literal audible voice or voices internally, or may be done silently with no sensory component.
+• **Inner Monologue** - A form of thinking based on language. This can occur conciously or unconcsiously, and can occur in parallel ('_inner dialogue_', wherein multiple linguistic thoughts overlap). This is a form of Verbal Thinking and can also optionally work together with Sensory Thinking (specifically _Sound Sensory Thinking_) to create a literal audible voice or voices internally, or may be 'silent' with no sensory component.
 
 • **Minds Eye** - 
 
