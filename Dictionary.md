@@ -23,3 +23,11 @@
 • **Imposition** - _TBD (terminology may change ['warping' vs 'projecting' maybe?])_
 
 • **Projection** - _TBD (super-imposition)_
+
+----
+
+# _TBD_
+
+• _TBD_...
+
+• _TBD_...
